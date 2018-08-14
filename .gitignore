@@ -2,3 +2,6 @@ web/.idea/
 web/build/
 app/.idea/
 app/app/build/
+web/out/
+app/.gitignore
+
