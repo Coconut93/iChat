@@ -1,9 +1,0 @@
-web/.idea/
-web/build/
-app/app/.idea/
-app/.idea
-app/app/gradle
-app/app/build/
-web/out/
-app/.gitignore
-app/app/.gitignore
