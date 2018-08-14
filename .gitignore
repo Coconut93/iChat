@@ -1,3 +1,8 @@
 web/iChat/.idea/
 web/iChat/build/
 web/iChat/out
+app/.gitignore
+app/.idea
+app/iChat/.gitignore
+app/iChat/.idea
+app/iChat/app/.gitignore
