@@ -6,3 +6,4 @@ app/.idea
 app/iChat/.gitignore
 app/iChat/.idea
 app/iChat/app/.gitignore
+app/iChat/lang/.gitignore
